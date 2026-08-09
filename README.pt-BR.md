@@ -10,7 +10,7 @@ O **TRUD** é um sistema ERP multi-tenant (uma única instância atende múltipl
 
 Este é um projeto de código aberto. A ideia é que empresas possam utilizar o TRUD — ou adaptá-lo para outros fins, incluindo capacitação de estagiários — livremente, dentro dos termos da licença.
 
-## ⚠️ Status do projeto
+## ⚠️ Status do projeto ⚠️
 
 O TRUD está em **fase inicial de desenvolvimento**. Arquitetura, funcionalidades e decisões técnicas ainda estão sendo definidas e podem mudar significativamente sem aviso prévio.
 

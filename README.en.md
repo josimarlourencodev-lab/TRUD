@@ -10,7 +10,7 @@
 
 This is an open source project. The idea is that companies can use TRUD — or adapt it for other purposes, including training interns — freely, within the terms of the license.
 
-## ⚠️ Project status
+## ⚠️  Project status  ⚠️
 
 TRUD is in an **early stage of development**. Architecture, features, and technical decisions are still being defined and may change significantly without notice.
 
